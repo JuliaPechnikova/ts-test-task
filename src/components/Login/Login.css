@@ -1,0 +1,9 @@
+.login {
+  max-width: fit-content;
+  margin: 100px auto;
+}
+
+.login__form {
+  display: flex;
+  flex-direction: column;
+}
